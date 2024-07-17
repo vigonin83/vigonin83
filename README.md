@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vasiliy Igonin. I'm studying Frontend Development in Result School by Vladilen Minin
+- 👋 Hi, I’m Vasiliy Igonin. I'm graduated Frontend Development in Result School by Vladilen Minin
+- 🌱 I’m working in AV Studio and everyday using React|Next.js, TypeScript, Webpack, Vite, SASS, HTML.
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript, Webpack, Git, React, NodeJS
 - 💞️ I’m looking to collaborate on intresting projects
 - 📫 How to reach me vigonin83@gmail.com
 
